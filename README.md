@@ -2,7 +2,6 @@
 
 An innovative embedded systems project that automates the deployment of an umbrella in response to rainfall. This smart system uses a rain sensor to detect water droplets and triggers a gear motor to extend the umbrella canopy via a rack and pinion mechanism. Controlled by an Arduino Uno, the setup demonstrates practical integration of sensors, actuators, and microcontroller-based logic.
 
-
 ---
 
 ## 🔧 Key Features
@@ -13,13 +12,13 @@ An innovative embedded systems project that automates the deployment of an umbre
 - Microcontroller-based control using Arduino Uno
 - Hands-free and weather-responsive design
 
-  ## 🛠️ Components Used
+ ## 🛠️ Tools & Technologies Used
 
-- Arduino Uno  
-- Rain Sensor Module  
-- Gear Motor  
-- Motor Driver (L298N or equivalent)  
-- Rack and Pinion Mechanism  
-- Power Supply (9V Battery or Adapter)
+- **Arduino IDE** – used for writing, compiling, and uploading the code  
+- **Embedded C / Arduino Language** – for programming logic  
+- **Microcontroller Platform** – Arduino Uno  
+- **Electromechanical System** – Gear motor with rack and pinion mechanism  
+- **Sensor Integration** – Rain sensor for input detection
+
 
 
